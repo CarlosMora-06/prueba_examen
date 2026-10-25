@@ -1,5 +1,5 @@
 """
-ASGI config for prueba_examen project.
+ASGI config for proyectoweb project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
